@@ -30,3 +30,4 @@ This is a rough schematic and I will need to double check if it fully works or n
 Today I started a rough PCB design and diagram to visualize the basic design.
 As of now my design is still missing key resisistors and capacitors and is not in working shape just yet (just a mockup)
 
+![Day 2](https://github.com/The-UnknownHacker/Serenity/blob/305006b9234b0b8d88c552c5b0c2ab27f9807b0b/Day%202.png)
