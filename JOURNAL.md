@@ -23,3 +23,10 @@ This is a rough schematic and I will need to double check if it fully works or n
 
 
 **Total time spent: 8h**
+
+
+# June 26th : Assigned all the footprints and started the PCB with rough routing
+
+Today I started a rough PCB design and diagram to visualize the basic design.
+As of now my design is still missing key resisistors and capacitors and is not in working shape just yet (just a mockup)
+
