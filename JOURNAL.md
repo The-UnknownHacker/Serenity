@@ -19,6 +19,7 @@ The parts I have decided for now are
 
 I also started to wire up most of the circuit and I think I have finished the first version of the schematic. 
 This is a rough schematic and I will need to double check if it fully works or not.
+![Day 1](https://raw.githubusercontent.com/The-UnknownHacker/Serenity/cf86a7b0c3918c50002f7faede01b7a9038a4543/Day%201.png)
 
 
 **Total time spent: 8h**
