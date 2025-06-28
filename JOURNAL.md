@@ -62,4 +62,5 @@ After running a DRC it showed a couple errors relating to the trace shorting a p
 
 <img width="686" alt="image" src="https://github.com/user-attachments/assets/7ef4ccfc-9a46-494c-bff6-7fa7de284d86" />
 
+**Total time spent: 6h**
 
