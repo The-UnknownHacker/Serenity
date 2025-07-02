@@ -130,7 +130,7 @@ I repeated the same steps for the headphone jack and SD card and was left with t
 Thats it!, The entire case + PCB is complete! To print it since it has holes it is made in 2 parts to glue together so it requires minimum supports!
 
 
-
+**Total time spent: 4h**
 
 
 
