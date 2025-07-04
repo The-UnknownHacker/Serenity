@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Purchase Method
+C1,1812,1,100nf,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_TDK_C342613.html,PCBA
+J1,microSD_HC_Molex_47219-2001,1,Micro_SD_Card,https://lcsc.com/product-detail/SD-Card-Memory-Card-Connector_MOLEX-472192001_C164170.html,PCBA
+J2,HRO_PJ-320D-A,1,PJ-320D-A,https://lcsc.com/product-detail/_Korean-Hroparts-Elec-PJ-320D-4A_C95562.html,PCBA
+"SW1, SW2",SW_PUSH-12mm_Wuerth-430476085716,2,SW_Push,https://www.adafruit.com/product/1119?srsltid=AfmBOoqwRE8KhgtdWcEbSr0UxHVauoeQpAy56lpgwJ67pl_6lD0DS_sJ,Ordering Online
+U1,ESP32-S2-DevKitC-1,1,ESP32-S3-DevKitC,https://www.altronics.com.au/p/z6433-esp-32s3-development-board/?srsltid=AfmBOoo7HbjlyieCijFq8KJl5-M4-PQNmQe3B9UOntGV4eMD2z6ZFo2W,Going Inshore (Local Shop)
+U2,TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,MAX98357A,https://lcsc.com/product-detail/Audio-Amplifiers_Analog-Devices-Inc-Maxim-Integrated-MAX98357AETE-T_C910544.html?s_z=n_MAX98357AETE%2BT,

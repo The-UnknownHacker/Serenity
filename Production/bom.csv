@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1812,1,100nf,
+J1,microSD_HC_Molex_47219-2001,1,Micro_SD_Card,
+J2,HRO_PJ-320D-A,1,PJ-320D-A,
+"SW1, SW2",SW_PUSH-12mm_Wuerth-430476085716,2,SW_Push,
+U1,ESP32-S2-DevKitC-1,1,ESP32-S3-DevKitC,
+U2,TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm,1,MAX98357A,
