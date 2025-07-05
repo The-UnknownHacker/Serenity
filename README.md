@@ -48,4 +48,3 @@ BOM
 
 - Prices dont include shipping, taxes, and PCBA assembly fees
 - PCBA components might have additional assembly costs
->>>>>>> 362ad14f6efefba22378ff116283cbd5f8bced75
