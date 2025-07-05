@@ -44,7 +44,7 @@ BOM
 | FILAMENT | PLA Basic 1kg Spool | 1 | Black PLA | https://au.store.bambulab.com/products/pla-basic-filament?id=43218831638691 | Ordering Online | $23.00 |
 
 ## Total Estimated Cost
-**Subtotal: ~$61.32 USD**
+**Subtotal: ~$55 USD**
 
 - Prices dont include shipping, taxes, and PCBA assembly fees
 - PCBA components might have additional assembly costs
