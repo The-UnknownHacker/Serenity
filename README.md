@@ -12,7 +12,6 @@ For example, with 4 layers, you can trigger **32 unique sounds**.
 
 I built **Serenity** after being inspired by those expensive drumpads used for triggering sound effects.  
 They often cost a fortune, so I created **Serenity** to cost **under $50 USD**, without sacrificing creativity or functionality.
-<<<<<<< HEAD
 =======
 
 
