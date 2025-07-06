@@ -43,7 +43,7 @@ BOM
 | U2 | TQFN-16-1EP_3x3mm_P0.5mm_EP1.23x1.23mm | 1 | MAX98357A | https://lcsc.com/product-detail/Audio-Amplifiers_Analog-Devices-Inc-Maxim-Integrated-MAX98357AETE-T_C910544.html?s_z=n_MAX98357AETE%2BT | PCBA | $3.50* |
 
 ## Total Estimated Cost
-**Subtotal: ~$35 USD** without shipping
+**Subtotal: ~$50 USD** without shipping
 
 - Prices dont include shipping, taxes, and PCBA assembly fees
 - PCBA components might have additional assembly costs
